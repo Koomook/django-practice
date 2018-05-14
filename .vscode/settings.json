@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "${workspaceFolder}/mely/bin/python",
+    "git.ignoreLimitWarning": true
+}
